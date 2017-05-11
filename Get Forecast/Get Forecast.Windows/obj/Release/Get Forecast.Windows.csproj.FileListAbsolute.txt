@@ -1,0 +1,47 @@
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\App.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\About.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\how.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\MainPage.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\Get Forecast.Windows.xr.xml
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\Get Forecast.Windows.exe
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\Get Forecast.Windows.pdb
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\resources.pri
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\AppxManifest.xml
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\Get Forecast.Windows.build.appxrecipe
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\AdDuplex.Universal.Controls.Win.XAML.dll
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\AdDuplex.Universal.Win.WinRT.winmd
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\Microsoft.Xaml.Interactions.dll
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\Microsoft.Xaml.Interactivity.dll
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\App.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\App.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\About.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\About.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\how.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\how.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\MainPage.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\MainPage.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\XamlTypeInfo.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\App.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\About.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\how.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\MainPage.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\App.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\About.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\how.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\MainPage.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\XamlSaveStateFile.xml
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\Get Forecast.Windows.exe
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\Get Forecast.Windows.pdb
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\Get Forecast.Windows.csproj.GenerateResource.Cache
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\priconfig.xml
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\priconfig.xml.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\layout.resfiles
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\layout.resfiles.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\resources.resfiles
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\resources.resfiles.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\pri.resfiles
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\pri.resfiles.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\qualifiers.txt
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\qualifiers.txt.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\ProjectArchitectures.txt

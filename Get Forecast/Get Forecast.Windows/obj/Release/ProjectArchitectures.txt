@@ -1,0 +1,1 @@
+D:\Get Forecast\Get Forecast\Get Forecast.Windows\Get Forecast.Windows.csproj;neutral

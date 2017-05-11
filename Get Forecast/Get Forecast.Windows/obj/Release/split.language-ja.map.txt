@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ja"
+"ResourceDimensions"		"language-ja-jp"
+
+[Files]
+"D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\split.language-ja.pri"			"resources.pri"

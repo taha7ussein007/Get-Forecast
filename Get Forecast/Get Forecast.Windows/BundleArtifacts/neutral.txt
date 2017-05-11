@@ -1,0 +1,4 @@
+MainPackage=D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\Get Forecast.Windows_1.1.0.6_Bundle\Get Forecast.Windows_1.1.0.6_AnyCPU.appx
+SymbolPackage=D:\Get Forecast\Get Forecast\Get Forecast.Windows\AppPackages\Get Forecast.Windows_1.1.0.6_Test\Get Forecast.Windows_1.1.0.6_AnyCPU.appxsym
+ResourcePack=D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\Get Forecast.Windows_1.1.0.6_Bundle\Get Forecast.Windows_1.1.0.6_scale-140.appx
+ResourcePack=D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Release\Get Forecast.Windows_1.1.0.6_Bundle\Get Forecast.Windows_1.1.0.6_scale-180.appx

@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-sr-cyrl"
+"ResourceDimensions"		"language-sr-cyrl-rs"
+"ResourceDimensions"		"language-sr-cyrl-ba"
+
+[Files]
+"D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\split.language-sr-cyrl.pri"			"resources.pri"

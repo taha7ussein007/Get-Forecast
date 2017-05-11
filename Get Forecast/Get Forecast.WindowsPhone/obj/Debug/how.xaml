@@ -1,0 +1,176 @@
+﻿<Page
+    x:Class="Get_Forecast.how"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Get_Forecast"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="25*"/>
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Orientation="Horizontal" Background="#CD853F" Grid.RowSpan="1">
+            <Image Height="80" Width="75"  
+				HorizontalAlignment="Left" VerticalAlignment="Center" Source="Assets/taha.png"/>
+            <TextBlock HorizontalAlignment="Left" VerticalAlignment="Center" TextWrapping="Wrap"  
+            	Text="About Application" 
+            	Foreground="White" Height="58" Width="319" FontSize="29" FontStyle="Oblique" FontFamily="Snap ITC" FontWeight="ExtraBold" Margin="0,15,0,15.333"/>
+
+        </StackPanel>
+
+        <Grid Grid.Row="1">
+
+            <Grid.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/4.jpg"/>
+            </Grid.Background>
+
+            <ScrollViewer VerticalScrollMode="Enabled" VerticalAlignment="Top"  HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Visible" >
+                <StackPanel Orientation="Vertical">
+
+                    <StackPanel x:Name="simu" HorizontalAlignment="Left" Margin="0,20,0,0" Width="400">
+                        <StackPanel Background="Honeydew" >
+                            <TextBlock HorizontalAlignment="Center" Text="What is Simulation !!" VerticalAlignment="Center"
+                    			Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        </StackPanel>
+                        <Line Height="3" />
+
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/simu.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3"/>
+                        <StackPanel Width="400" Background="Honeydew">
+                            <TextBlock HorizontalAlignment="Center" Text=". Steps For Simulation ." VerticalAlignment="Center"
+                    			Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        </StackPanel>
+                        <Line Height="3" />
+
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/steps.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+                        <StackPanel Width="400" Background="Honeydew">
+                            <TextBlock HorizontalAlignment="Center" Text=". Advantages And Disadvantages ." VerticalAlignment="Center"
+                    			Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        </StackPanel>
+                        <Line Height="3" />
+
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/adv.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+
+                    <!--##############################################################-->
+
+                    <StackPanel x:Name="fore" HorizontalAlignment="Center" Margin="0,20,0,0" Width="1350">
+                        <StackPanel Width="400" Background="Honeydew">
+                            <TextBlock HorizontalAlignment="Center" Text="What is Forecasting !?" VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="37" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        </StackPanel>
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/fore2.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3"/>
+                        <TextBlock HorizontalAlignment="Center" Text="-------------------" VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/fore3.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+                        <StackPanel Width="400" Background="Honeydew">
+                            <TextBlock HorizontalAlignment="Center" Text="What is the Need For Forecasting !?" VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        </StackPanel>
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/fore.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                    </StackPanel>
+
+                    <!--##############################################################-->
+
+                        <StackPanel Width="400" Background="Honeydew">
+                            <TextBlock HorizontalAlignment="Center" Text=". Quantitative approaches ." VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        </StackPanel>
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/mse.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3"/>
+                        <StackPanel Width="400" Background="Honeydew">
+                            <TextBlock HorizontalAlignment="Center" Text="| Simple Moving Average |" VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        </StackPanel>
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/1.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/2.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+
+                        <StackPanel Width="400" Background="Honeydew">
+                            <TextBlock HorizontalAlignment="Center" Text="| Exponential Smoothing  |" VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        </StackPanel>
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/3.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/4..png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+
+                        <StackPanel Width="400" Background="Honeydew">
+                            <TextBlock HorizontalAlignment="Center" Text="| Weighted Moving Average |" VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        </StackPanel>
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/5.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/6.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+
+                        <StackPanel Width="400" Background="Honeydew">
+                            <TextBlock HorizontalAlignment="Center" Text="| MAD |" VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        </StackPanel>
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/7.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/8.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+
+                        <StackPanel Width="400" Background="Honeydew">
+                            <TextBlock HorizontalAlignment="Center" Text="| MSE |" VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        </StackPanel>
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/9.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/10.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+
+                        <StackPanel Width="400" Background="Honeydew">
+                            <TextBlock HorizontalAlignment="Center" Text="*** Application  Manual Guide ***" VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        </StackPanel>
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/use1.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <TextBlock HorizontalAlignment="Center" Text="------------------" VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        <Line Height="3" />
+                        <Image   Width="400" Height="250"  Stretch="Fill" Source="Assets/use2.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <TextBlock HorizontalAlignment="Center" Text="------------------" VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="40" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        <Line Height="3" />
+                        <Image   Width="400" Height="250"  Stretch="Fill" Source="Assets/use3.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <TextBlock HorizontalAlignment="Center" Text="------------------" VerticalAlignment="Center"
+            	Foreground="SaddleBrown"  FontSize="25" FontStyle="Oblique" FontFamily="segoe print" FontWeight="ExtraBold"/>
+                        <Line Height="3" />
+                        <Image  Width="400" Height="250" Stretch="Fill" Source="Assets/use4.png" VerticalAlignment="Top" HorizontalAlignment="Center"  />
+                        <Line Height="3" />
+
+                    </StackPanel>
+
+
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+
+
+
+
+</Page>
+

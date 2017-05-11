@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TAHA</Machine>
+    <WindowsUser>Taha Hussein</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4203TahaHussein.GetForecast</PackageIdentityName>
+    <IntermediateOutputPath>D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D237B77B0F14A7911BE4B0CF21CF52AFB1A66D67331DB62962025405D03189B4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4203TahaHussein.GetForecast_1.1.0.6_neutral__jg8vh6z4j58tt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4203TahaHussein.GetForecast_jg8vh6z4j58tt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4203TahaHussein.GetForecast</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=51C861B3-69B8-4346-A7ED-F2FAF9D63E04</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.6</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-04T17:00:29.940</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Debug\Get Forecast.Windows.exe">
+      <PackagePath>Get Forecast.Windows.exe</PackagePath>
+      <Modified>2015-08-03T11:30:31.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\References\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML.dll">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML.dll</PackagePath>
+      <Modified>2015-04-01T08:40:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T12:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T12:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\References\CommonConfiguration\neutral\AdDuplex.Universal.Win.WinRT.winmd">
+      <PackagePath>AdDuplex.Universal.Win.WinRT.winmd</PackagePath>
+      <Modified>2015-04-01T08:40:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf</PackagePath>
+      <Modified>2015-04-01T08:40:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:55:09.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:56:27.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:58:12.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:54:04.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-25T01:08:01.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:06:38.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:10:20.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-25T01:07:16.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-25T01:06:20.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:57:56.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-25T01:09:03.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:08:30.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:43:06.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:46:56.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:48:00.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:51:46.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:38:06.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:42:01.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:57:40.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:14:16.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:20:56.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:54:39.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:11:24.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:09:38.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:14:16.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:19:57.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T23:09:47.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T23:03:18.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T22:40:37.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-24T23:10:40.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\1.PNG">
+      <PackagePath>Assets\1.PNG</PackagePath>
+      <Modified>2015-06-17T23:10:18.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\10.PNG">
+      <PackagePath>Assets\10.PNG</PackagePath>
+      <Modified>2015-06-17T23:15:35.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\hand.png">
+      <PackagePath>Assets\hand.png</PackagePath>
+      <Modified>2015-06-21T21:10:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\2.PNG">
+      <PackagePath>Assets\2.PNG</PackagePath>
+      <Modified>2015-06-17T23:10:45.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\3.PNG">
+      <PackagePath>Assets\3.PNG</PackagePath>
+      <Modified>2015-06-17T23:11:13.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\4..PNG">
+      <PackagePath>Assets\4..PNG</PackagePath>
+      <Modified>2015-06-17T23:11:35.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\5.PNG">
+      <PackagePath>Assets\5.PNG</PackagePath>
+      <Modified>2015-06-17T23:12:08.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\6.PNG">
+      <PackagePath>Assets\6.PNG</PackagePath>
+      <Modified>2015-06-17T23:12:48.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\7.PNG">
+      <PackagePath>Assets\7.PNG</PackagePath>
+      <Modified>2015-06-17T23:14:14.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\8.PNG">
+      <PackagePath>Assets\8.PNG</PackagePath>
+      <Modified>2015-06-17T23:14:40.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\9.PNG">
+      <PackagePath>Assets\9.PNG</PackagePath>
+      <Modified>2015-06-17T23:15:18.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\About background.png">
+      <PackagePath>Assets\About background.png</PackagePath>
+      <Modified>2015-03-29T23:51:44.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\adv.PNG">
+      <PackagePath>Assets\adv.PNG</PackagePath>
+      <Modified>2015-06-17T23:19:24.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly 5-1.png</PackagePath>
+      <Modified>2015-03-29T23:50:20.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\About background.png">
+      <PackagePath>Assets\Assembly logo\About background.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly logo\Assembly 5-1.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\Blue.png">
+      <PackagePath>Assets\Assembly logo\Blue.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\FBL.png">
+      <PackagePath>Assets\Assembly logo\FBL.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\Logo Icon 1.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon 1.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\Logo Icon.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\Logo Icon2.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon2.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\TL.png">
+      <PackagePath>Assets\Assembly logo\TL.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\FBL.png">
+      <PackagePath>Assets\FBL.png</PackagePath>
+      <Modified>2015-03-29T23:50:20.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\fore.PNG">
+      <PackagePath>Assets\fore.PNG</PackagePath>
+      <Modified>2015-06-17T23:21:57.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\fore2.PNG">
+      <PackagePath>Assets\fore2.PNG</PackagePath>
+      <Modified>2015-06-17T23:22:28.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\fore3.PNG">
+      <PackagePath>Assets\fore3.PNG</PackagePath>
+      <Modified>2015-06-17T23:22:44.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\how.png">
+      <PackagePath>Assets\how.png</PackagePath>
+      <Modified>2015-06-16T04:49:02.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Logo Icon 1.png">
+      <PackagePath>Assets\Logo Icon 1.png</PackagePath>
+      <Modified>2015-03-29T23:50:20.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Logo Icon2.png">
+      <PackagePath>Assets\Logo Icon2.png</PackagePath>
+      <Modified>2015-03-29T23:50:20.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\mse.PNG">
+      <PackagePath>Assets\mse.PNG</PackagePath>
+      <Modified>2015-06-17T23:38:03.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\simu.PNG">
+      <PackagePath>Assets\simu.PNG</PackagePath>
+      <Modified>2015-06-17T23:18:38.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\steps.PNG">
+      <PackagePath>Assets\steps.PNG</PackagePath>
+      <Modified>2015-06-17T23:19:04.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\taha.png">
+      <PackagePath>Assets\taha.png</PackagePath>
+      <Modified>2015-06-21T22:07:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\TL.png">
+      <PackagePath>Assets\TL.png</PackagePath>
+      <Modified>2015-03-29T23:50:20.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\use1.PNG">
+      <PackagePath>Assets\use1.PNG</PackagePath>
+      <Modified>2015-07-09T00:23:30.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\use2.png">
+      <PackagePath>Assets\use2.png</PackagePath>
+      <Modified>2015-06-18T16:02:46.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\use3.png">
+      <PackagePath>Assets\use3.png</PackagePath>
+      <Modified>2015-06-18T16:03:14.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\use4.png">
+      <PackagePath>Assets\use4.png</PackagePath>
+      <Modified>2015-06-18T16:04:04.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\4.jpg">
+      <PackagePath>Assets\4.jpg</PackagePath>
+      <Modified>2015-04-29T04:30:42.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\ba.jpg">
+      <PackagePath>Assets\ba.jpg</PackagePath>
+      <Modified>2015-03-11T12:35:10.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-08-03T11:30:31.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+      <Modified>2015-08-03T11:30:31.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Debug\how.xbf">
+      <PackagePath>how.xbf</PackagePath>
+      <Modified>2015-08-03T11:30:31.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-08-03T11:30:31.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Debug\Get Forecast.Windows.xr.xml">
+      <PackagePath>Get Forecast.Windows.xr.xml</PackagePath>
+      <Modified>2015-07-09T12:38:48.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-04T17:00:27.689</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

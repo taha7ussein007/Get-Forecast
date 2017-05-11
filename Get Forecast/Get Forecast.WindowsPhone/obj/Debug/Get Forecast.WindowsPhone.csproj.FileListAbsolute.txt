@@ -1,0 +1,153 @@
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\App.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.xr.xml
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.exe
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.pdb
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\resources.pri
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.build.appxrecipe
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.g.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.xaml
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\Get Forecast.WindowsPhone.exe
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\Get Forecast.WindowsPhone.pdb
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\priconfig.xml
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\layout.resfiles
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\resources.resfiles
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\pri.resfiles
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.g.i.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.g.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\about_page.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.xaml
+D:\Taha\Courses Self Study\App Factory\My Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.xbf
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\App.xbf
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\about_page.xbf
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.xr.xml
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.exe
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.pdb
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\resources.pri
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.build.appxrecipe
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.g.cs
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.g.i.cs
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.g.cs
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.xaml
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.xaml
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.xbf
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.xbf
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\Get Forecast.WindowsPhone.exe
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\Get Forecast.WindowsPhone.pdb
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\priconfig.xml
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\layout.resfiles
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\resources.resfiles
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\pri.resfiles
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Taha\Courses Self Study\App Factory\DESKTOP STUFF\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\App.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\how.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\how2.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\about_page.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.xr.xml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.exe
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.pdb
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\resources.pri
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.build.appxrecipe
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how2.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how2.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how2.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how2.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\Get Forecast.WindowsPhone.exe
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\Get Forecast.WindowsPhone.pdb
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\priconfig.xml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\layout.resfiles
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\resources.resfiles
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\pri.resfiles
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\App.xbf
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\how.xbf
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\how2.xbf
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\about_page.xbf
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.xr.xml
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.exe
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.pdb
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.g.cs
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how.g.i.cs
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how.g.cs
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how2.g.i.cs
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how2.g.cs
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.g.i.cs
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.g.cs
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.xaml
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how.xaml
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how2.xaml
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.xaml
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\App.xbf
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how.xbf
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\how2.xbf
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\about_page.xbf
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\Get Forecast.WindowsPhone.exe
+D:\Editting Apps\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\Get Forecast.WindowsPhone.pdb

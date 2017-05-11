@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-yo-latn"
+"ResourceDimensions"		"language-yo-ng"
+
+[Files]
+"D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\split.language-yo-latn.pri"			"resources.pri"

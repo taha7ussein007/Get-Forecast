@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ha-latn"
+"ResourceDimensions"		"language-ha-latn"
+
+[Files]
+"D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\split.language-ha-latn.pri"			"resources.pri"

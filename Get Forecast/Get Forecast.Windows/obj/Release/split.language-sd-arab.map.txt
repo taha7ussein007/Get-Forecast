@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-sd-arab"
+"ResourceDimensions"		"language-sd-arab-pk"
+
+[Files]
+"D:\Get Forecast\Get Forecast\Get Forecast.Windows\obj\Release\split.language-sd-arab.pri"			"resources.pri"

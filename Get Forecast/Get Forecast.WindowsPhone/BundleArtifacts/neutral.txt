@@ -1,0 +1,4 @@
+MainPackage=D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\Get Forecast.WindowsPhone_1.1.0.3_Bundle\Get Forecast.WindowsPhone_1.1.0.3_AnyCPU.appx
+SymbolPackage=D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\AppPackages\Get Forecast.WindowsPhone_1.1.0.3_Test\Get Forecast.WindowsPhone_1.1.0.3_AnyCPU.appxsym
+ResourcePack=D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\Get Forecast.WindowsPhone_1.1.0.3_Bundle\Get Forecast.WindowsPhone_1.1.0.3_scale-100.appx
+ResourcePack=D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\Get Forecast.WindowsPhone_1.1.0.3_Bundle\Get Forecast.WindowsPhone_1.1.0.3_scale-140.appx

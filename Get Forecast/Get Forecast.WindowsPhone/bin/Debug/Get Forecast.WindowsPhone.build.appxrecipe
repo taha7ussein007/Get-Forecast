@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TAHA</Machine>
+    <WindowsUser>Taha Hussein</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a49b6f95-3397-4d77-b1f9-1abade2fe83c</PackageIdentityName>
+    <IntermediateOutputPath>D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.exe">
+      <PackagePath>Get Forecast.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\WideLogo.scale-140.png">
+      <PackagePath>Assets\WideLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\1.PNG">
+      <PackagePath>Assets\1.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\10.PNG">
+      <PackagePath>Assets\10.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\hand.png">
+      <PackagePath>Assets\hand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\2.PNG">
+      <PackagePath>Assets\2.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\3.PNG">
+      <PackagePath>Assets\3.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\4..PNG">
+      <PackagePath>Assets\4..PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\5.PNG">
+      <PackagePath>Assets\5.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\6.PNG">
+      <PackagePath>Assets\6.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\7.PNG">
+      <PackagePath>Assets\7.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\8.PNG">
+      <PackagePath>Assets\8.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\9.PNG">
+      <PackagePath>Assets\9.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\About background.png">
+      <PackagePath>Assets\About background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\adv.PNG">
+      <PackagePath>Assets\adv.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly 5-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\About background.png">
+      <PackagePath>Assets\Assembly logo\About background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly logo\Assembly 5-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\Blue.png">
+      <PackagePath>Assets\Assembly logo\Blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\FBL.png">
+      <PackagePath>Assets\Assembly logo\FBL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\Logo Icon 1.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon 1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\Logo Icon.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\Logo Icon2.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Assembly logo\TL.png">
+      <PackagePath>Assets\Assembly logo\TL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\FBL.png">
+      <PackagePath>Assets\FBL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\fore.PNG">
+      <PackagePath>Assets\fore.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\fore2.PNG">
+      <PackagePath>Assets\fore2.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\fore3.PNG">
+      <PackagePath>Assets\fore3.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\how.png">
+      <PackagePath>Assets\how.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Logo Icon 1.png">
+      <PackagePath>Assets\Logo Icon 1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\Logo Icon2.png">
+      <PackagePath>Assets\Logo Icon2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\mse.PNG">
+      <PackagePath>Assets\mse.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\simu.PNG">
+      <PackagePath>Assets\simu.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\steps.PNG">
+      <PackagePath>Assets\steps.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\taha.png">
+      <PackagePath>Assets\taha.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\TL.png">
+      <PackagePath>Assets\TL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\use1.PNG">
+      <PackagePath>Assets\use1.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\use2.png">
+      <PackagePath>Assets\use2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\use3.png">
+      <PackagePath>Assets\use3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\use4.png">
+      <PackagePath>Assets\use4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\4.jpg">
+      <PackagePath>Assets\4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.Shared\Assets\ba.jpg">
+      <PackagePath>Assets\ba.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\how.xbf">
+      <PackagePath>how.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\how2.xbf">
+      <PackagePath>how2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\about_page.xbf">
+      <PackagePath>about_page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\Get Forecast.WindowsPhone.xr.xml">
+      <PackagePath>Get Forecast.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,42 @@
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\App.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\how.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\MainPage.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\about_page.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\Get Forecast.WindowsPhone.xr.xml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\Get Forecast.WindowsPhone.exe
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\Get Forecast.WindowsPhone.pdb
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\resources.pri
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\AppxManifest.xml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\bin\Release\Get Forecast.WindowsPhone.build.appxrecipe
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\App.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\App.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\how.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\how.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\MainPage.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\MainPage.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\about_page.g.i.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\about_page.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\App.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\how.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\MainPage.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\about_page.xaml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\App.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\how.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\MainPage.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\about_page.xbf
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\Get Forecast.WindowsPhone.exe
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\Get Forecast.WindowsPhone.pdb
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\priconfig.xml
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\priconfig.xml.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\layout.resfiles
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\layout.resfiles.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\resources.resfiles
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\resources.resfiles.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\pri.resfiles
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\pri.resfiles.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\qualifiers.txt
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Get Forecast\Get Forecast\Get Forecast.WindowsPhone\obj\Release\ProjectArchitectures.txt

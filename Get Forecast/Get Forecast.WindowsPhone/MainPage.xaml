@@ -1,0 +1,295 @@
+﻿<Page
+    x:Class="Get_Forecast.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Get_Forecast"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+       xmlns:ad="using:AdDuplex.Universal.Controls.WinPhone.XAML"
+    xmlns:UI="using:Microsoft.Advertising.Mobile.UI"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+
+        <CommandBar Background="#CD853F" >
+            <AppBarButton Name="aboutp" Icon="Help" Label="about" Click="aboutp_Click" />
+            <AppBarButton Icon="LikeDislike" Label="Rate" Click="AppBarButton_Click" />
+            <AppBarButton Icon="More" Label="Guid" Click="AppBarButton_Click_1"  />
+
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="#B0E0E6">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="25*"/>
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Orientation="Horizontal" Background="#CD853F" Grid.RowSpan="1">
+            <Image Height="80" Width="75"  
+				HorizontalAlignment="Left" VerticalAlignment="Center" Source="Assets/taha.png"/>
+            <TextBlock HorizontalAlignment="Left" VerticalAlignment="Center" TextWrapping="Wrap"  
+            	Text="Get Forecast" 
+            	Foreground="White" Height="58" Width="260" FontSize="32" FontStyle="Oblique" FontFamily="Snap ITC" FontWeight="ExtraBold"/>
+
+        </StackPanel>
+
+
+        <Grid Grid.Row="2" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="393*"/>
+            </Grid.RowDefinitions>
+            <Grid.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/ba.jpg"/>
+            </Grid.Background>
+
+
+
+            <Pivot x:Name="myPivot">
+                <PivotItem x:Name="pivot_item1" Header="Simple Moving ">
+
+                    <StackPanel>
+
+                        <Grid VerticalAlignment="Top" Height="300" HorizontalAlignment="Center" Grid.Row="2">
+
+                            <Grid.Background>
+                                <ImageBrush Stretch="Fill" ImageSource="Assets/ba.jpg"/>
+                            </Grid.Background>
+
+                            <StackPanel VerticalAlignment="Top" Margin="20">
+
+                                <TextBlock x:Name="name4" Foreground="Brown" FontWeight="ExtraBold" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" Text="Choose Date : *optional*"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+
+                                <ListView Width="150" Background="Firebrick" HorizontalAlignment="Center" VerticalAlignment="Top" Height="50">
+                                    <TextBlock x:Name="name7" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- January"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name8" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- February"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+
+                                    <TextBlock x:Name="name9" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- March"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+
+                                    <TextBlock x:Name="name10" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- April"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name11" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- May"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name12" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- June"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name13" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- July"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name14" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- August"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name15" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- September"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name16" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- October"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name17" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- November"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name18" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- December"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <Border BorderBrush="Black" BorderThickness="1" Height="100" Width="100"/>
+                                </ListView>
+                            </StackPanel>
+
+                            <StackPanel VerticalAlignment="Center" Margin="20">
+                                <TextBlock x:Name="name5" Foreground="Brown" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="Quantity :"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                <TextBox  x:Name="quan" Width="250" Height="15" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                            </StackPanel>
+
+                            <StackPanel x:Name="sp1" VerticalAlignment="Bottom" Margin="20">
+                                <TextBlock x:Name="textNumOf" Foreground="Brown" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="Number of Periods :"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                <TextBox x:Name="numOfPer"  Width="250"  VerticalAlignment="Bottom" HorizontalAlignment="Center" />
+                            </StackPanel>
+
+                            <StackPanel x:Name="wh" VerticalAlignment="Bottom" Margin="20" Visibility="Collapsed">
+                                <TextBlock  x:Name="textOfWhich" Foreground="Brown" HorizontalAlignment="Left"   VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="Index of Entry :"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                <TextBox  x:Name="which" Width="250"  VerticalAlignment="Bottom" HorizontalAlignment="Center" />
+                            </StackPanel>
+
+                        </Grid>
+
+                        <Grid Grid.Row="1" VerticalAlignment="Bottom" Height="250" >
+
+                            <Button  Width="30" Height="20" HorizontalAlignment="Left"  VerticalAlignment="Top" Background="#FF2897E0" Content="Add" FontFamily="segoe print" Click="Button_Click"/>
+                            <Button  Width="35" Height="20" VerticalAlignment="Top"  HorizontalAlignment="Center" Background="#FF28E08D" Content="Calculate" FontFamily="segoe print" Click="Button_Click_1"/>
+                            <Button  Width="35" Height="20" VerticalAlignment="Top" Background="#FF6347" HorizontalAlignment="Right" Content="New" FontFamily="segoe print" Click="Button_Click_2"/>
+
+
+                        </Grid>
+                    </StackPanel>
+                </PivotItem>
+
+                <!--####################################################################-->  <!--exponential smoothing-->
+
+                <PivotItem x:Name="pivot_item3" Header="Exponential Smoothing">
+                    <StackPanel>
+                        <Grid VerticalAlignment="Top" Height="300" HorizontalAlignment="Stretch" Grid.Row="2">
+
+                            <Grid.Background>
+                                <ImageBrush Stretch="Fill" ImageSource="Assets/ba.jpg"/>
+                            </Grid.Background>
+
+                            <StackPanel VerticalAlignment="Top" Margin="5">
+                                <TextBlock x:Name="name32" Foreground="Brown"  FontWeight="ExtraBold" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" Text="Choose Date : *optional*"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+
+                                <ListView Width="150" Background="Firebrick" HorizontalAlignment="Center" VerticalAlignment="Top" Height="50">
+                                    <TextBlock x:Name="name33" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- January"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name34" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- February"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+
+                                    <TextBlock x:Name="name35" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- March"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+
+                                    <TextBlock x:Name="name36" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- April"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name37" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- May"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name38" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- June"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name39" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- July"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name40" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- August"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name41" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- September"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name42" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- October"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name43" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- November"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name44" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- December"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <Border BorderBrush="Black" BorderThickness="1" Height="100" Width="100"/>
+                                </ListView>
+                            </StackPanel>
+
+                            <StackPanel VerticalAlignment="Center" Margin="10">
+                                <TextBlock Foreground="Brown" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="Quantity :"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                <TextBox  x:Name="quan2" Width="250" Height="15" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                            </StackPanel>
+
+                            <StackPanel x:Name="sp2" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="200" Margin="10">
+                                <TextBlock  Foreground="Brown" HorizontalAlignment="Right" VerticalAlignment="Center" FontWeight="ExtraBold" FontSize="15" Text="Constant :"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="150"/>
+                                <TextBox  x:Name="cons" Width="150"  VerticalAlignment="Bottom" HorizontalAlignment="Right" />
+                            </StackPanel>
+
+                            <StackPanel x:Name="sp4" VerticalAlignment="Bottom" Width="200" HorizontalAlignment="Left" Margin="10">
+                                <TextBlock  Foreground="Brown" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="ExtraBold" FontSize="15" Text="First Forecast :"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="150"/>
+                                <TextBox x:Name="firFore"  Width="150"  VerticalAlignment="Bottom" HorizontalAlignment="Left" />
+                            </StackPanel>
+
+                            <StackPanel x:Name="wh2" VerticalAlignment="Bottom" Margin="20" Visibility="Collapsed">
+                                <TextBlock  x:Name="textOfWhich2" Foreground="Brown" HorizontalAlignment="Left"   VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="Index of Entry :"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                <TextBox  x:Name="which2" Width="250"  VerticalAlignment="Bottom" HorizontalAlignment="Center" />
+                            </StackPanel>
+                        </Grid>
+
+                        <Grid Grid.Row="1" VerticalAlignment="Bottom" Height="250" >
+
+                            <Button  Width="30" Height="20" HorizontalAlignment="Left"  VerticalAlignment="Top" Background="#FF2897E0" Content="Add" FontFamily="segoe print" Click="Button_Click_3"/>
+                            <Button  Width="35" Height="20" VerticalAlignment="Top"  HorizontalAlignment="Center" Background="#FF28E08D" Content="Calculate" FontFamily="segoe print" Click="Button_Click_4"/>
+                            <Button  Width="35" Height="20" VerticalAlignment="Top" Background="#FF6347" HorizontalAlignment="Right" Content="New" FontFamily="segoe print" Click="Button_Click_5"/>
+
+
+                        </Grid>
+                    </StackPanel>
+                </PivotItem>
+
+                <!--####################################################################-->
+
+                <PivotItem x:Name="pivot_item2" Header="Weight Moving ">
+                    <StackPanel>
+                        <Grid VerticalAlignment="Top" Height="300" HorizontalAlignment="Center" Grid.Row="2">
+
+                            <Grid.Background>
+                                <ImageBrush Stretch="Fill" ImageSource="Assets/ba.jpg"/>
+                            </Grid.Background>
+
+                            <StackPanel VerticalAlignment="Top" Margin="20">
+                                <TextBlock x:Name="name19" Foreground="Brown" FontWeight="ExtraBold" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" Text="Choose Date : *optional*"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+
+                                <ListView Width="150" Background="Firebrick" HorizontalAlignment="Center" VerticalAlignment="Top" Height="50">
+                                    <TextBlock x:Name="name20" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- January"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name21" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- February"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+
+                                    <TextBlock x:Name="name22" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- March"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+
+                                    <TextBlock x:Name="name23" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- April"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name24" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- May"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name25" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- June"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name26" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- July"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name27" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- August"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name28" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- September"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name29" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- October"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name30" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- November"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <TextBlock x:Name="name31" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="- December"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                    <Border BorderBrush="Black" BorderThickness="1" Height="100" Width="100"/>
+                                </ListView>
+                            </StackPanel>
+
+                            <StackPanel VerticalAlignment="Center" Margin="20">
+                                <TextBlock  Foreground="Brown" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="Quantity :"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                <TextBox  x:Name="quan3" Width="250" Height="15" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                            </StackPanel>
+
+                            <StackPanel VerticalAlignment="Bottom" Margin="20">
+                                <TextBlock  Foreground="Brown" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Text="Weight :"
+                	FontStyle="Oblique" FontFamily="segoe print"  Width="200"/>
+                                <TextBox  Width="250"  VerticalAlignment="Bottom" HorizontalAlignment="Center" />
+                            </StackPanel>
+
+                        </Grid>
+
+                        <Grid Grid.Row="1" VerticalAlignment="Bottom" Height="250" >
+
+                            <Button  Width="30" Height="20" HorizontalAlignment="Left"  VerticalAlignment="Top" Background="#FF2897E0" Content="Add" FontFamily="segoe print" Click="Button_Click_6" />
+                            <Button  Width="35" Height="20" VerticalAlignment="Top"  HorizontalAlignment="Center" Background="#FF28E08D" Content="Calculate" FontFamily="segoe print" Click="Button_Click_7"/>
+                            <Button  Width="35" Height="20" VerticalAlignment="Top" Background="#FF6347" HorizontalAlignment="Right" Content="New" FontFamily="segoe print" Click="Button_Click_8"/>
+
+
+                        </Grid>
+                    </StackPanel>
+                </PivotItem>
+
+
+
+            </Pivot>
+
+            <!--<Grid Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Bottom">
+                <ad:AdControl x:Name="adDuplexAd" AppId="131819" Width="355" HorizontalAlignment="Stretch" VerticalAlignment="Center" />
+            </Grid>-->
+
+        </Grid>
+
+
+
+
+    </Grid>
+</Page>
